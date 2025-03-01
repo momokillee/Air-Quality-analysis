@@ -20,4 +20,6 @@ This is a Streamlit application that monitors live air quality in India and pred
 
 ------COMMAND TO RUN WEB APP IN TERMINAL----
 ****streamlit run app.py*****
-"https://github.com/user-attachments/assets/1d91fc8a-c89f-4d2e-ad75-831ba5ded275"
+
+
+![image alt](https://github.com/momokillee/Air-Quality-analysis/blob/1fe5611677c78a5f0c5cd12b7cfac9019d7fa70c/Screenshot%202025-03-01%20100751.png)
